@@ -7,3 +7,4 @@ Unicorns
 Ice cream nice cream
 1234578910
 The colours of the rainbow are red yellow green blue purple
+abcefghijklmnopqrsuvwxyz
